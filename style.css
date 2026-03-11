@@ -365,8 +365,8 @@ p {
 
 /* Photo Avatar */
 .avatar-circle {
-    width: 140px;
-    height: 140px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     background: white;
     display: flex;
@@ -625,3 +625,4 @@ p {
         text-align: left;
     }
 }
+
